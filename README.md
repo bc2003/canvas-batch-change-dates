@@ -19,6 +19,9 @@
    | course_id | start_date |   end_date |
    | :-------- | :--------: | ---------: |
    | 12345     | 2020-01-01 | 2021-01-01 |
+   
+   > course_id can be found as the last digits of the URL when visiting the course page (INSERT SCREENSHOT HERE)
+   > start and end dates can be found in _Courses > \<Course Name> > Settings > Participation_
 
 1. **Canvas API Token**: Found in _Canvas > Account > Settings > Approved Integrations_ (prompted by the Jupyter Notebook)
 
