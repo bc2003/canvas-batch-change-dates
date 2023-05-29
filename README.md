@@ -12,7 +12,7 @@
 
 ## Inputs
 
-1. Duplicate `start_end_courses-template.csv` within the same folder (./canvas-batch-change-dates/data/input. Rename the new copy as `start_end_courses.csv`.
+1. Duplicate `start_end_courses-template.csv` within the same folder (./canvas-batch-change-dates/data/input). Rename the new copy as `start_end_courses.csv`.
 
 1. `start_end_courses.csv`: List all courses by id and enter start and end date values in respective columns
 
@@ -22,7 +22,7 @@
    | :-------- | :--------: | ---------: |
    | 12345     | 2020-01-01 | 2021-01-01 |
    
-   > course_id can be found as the last digits of the URL when visiting the course page (INSERT SCREENSHOT HERE) <br>
+   > course_id can be found as the last digits of the URL when visiting the course page (INSERT SCREENSHOT HERE) <br> <br>
    > start and end dates can be found in _Courses > \<Course Name> > Settings > Participation_
 
 1. **Canvas API Token**: Found in _Canvas > Account > Settings > Approved Integrations_ (prompted by the Jupyter Notebook)
