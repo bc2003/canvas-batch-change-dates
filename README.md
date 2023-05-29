@@ -12,6 +12,8 @@
 
 ## Inputs
 
+1. Duplicate `start_end_courses-template.csv` within the same folder (./canvas-batch-change-dates/data/input. Rename the new copy as `start_end_courses.csv`.
+
 1. `start_end_courses.csv`: List all courses by id and enter start and end date values in respective columns
 
    > ex. to change course (12345) to begin Jan-01-2020 and end Jan-01-2021 we'd enter:
